@@ -21,11 +21,6 @@
 			"version": "3.0.1"
 		},
 		{
-			"name": "flixel-tools",
-			"type": "haxelib",
-			"version": null
-		},
-		{
 			"name": "flixel-ui",
 			"type": "haxelib",
 			"version": "2.6.1"
@@ -44,16 +39,14 @@
 		},
 		{
 			"name": "hscript",
-			"type": "haxelib",
-			"version": null
+			"type": "haxelib"
 		},
 		{
 			"name": "hxcpp-debug-server",
-			"type": "haxelib",
-			"version": null
+			"type": "haxelib"
 		},
 		{
-			"name": "discord_rpc",
+			"name": "linc_discord-rpc",
 			"type": "git",
 			"dir": null,
 			"ref": "master",
